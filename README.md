@@ -1,2 +1,2 @@
 # server-sent-events
-Demo for Server Sent Events in Java Webflux
+Demo for Server Sent Events
